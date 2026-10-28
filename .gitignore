@@ -1,0 +1,9 @@
+# Cache:
+__pycache__/
+lib/
+
+# Big files:
+*.pdf
+*.png
+*.svg
+*.xlsx
